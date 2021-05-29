@@ -38,7 +38,7 @@ Ahh I cant be bothered ... I'll get a pi do it.
 
 <br>
 
-## Lego-Pi
+## Pi Just-In-Case
 
 <p float="middle">
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/lego-pi.jpeg" width="300" />
