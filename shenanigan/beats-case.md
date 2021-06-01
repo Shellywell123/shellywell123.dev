@@ -1,4 +1,4 @@
-# Beats-Case
+# Beat-Case
 
 old broken laptop + dj controller + lockdown = retro dj station.
 
