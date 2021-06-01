@@ -24,4 +24,3 @@
         <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/sketchbooks/Covers/Unit-Y.jpg" width="265" />
     </a>
 </p>
-
