@@ -1,8 +1,8 @@
 # ArT-aTt@cK
 
-## Test Virtual Portfolio Books:
+## Virtual Portfolio Books:
 
-- Click on a book to view it - 
+- Click on a book to view it [for mobile devices - best viewed in landscape] 
 
 <p float="middle">
     <a href="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/sketchbooks/Unit-1A/book.html">
