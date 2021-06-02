@@ -1,72 +1,63 @@
 # Basement.sav
-One of my ongoing projects has been to make an all-in-one gaming station. By dumping all my owned ROM's and save files across all the gaming consoles my Dad and I have collected over the years (all stored in the basement).
+Notes made during the making of an all-in-one PC gaming hub from the games in my basement.
 
-So the games can live on through rhe use of emulators running on a single PC (windows) using LaunchBox as the frontend.
+This was achieved by dumping all my personal ROM's and save files on every console my Dad and I collected over the years. And then configuring all the files to run via the use of emulators running on a single PC (Windows). I found L[LaunchBox](https://www.launchbox-app.com/download) to be the best soloution for multiple emulators as an all-in-one frontend.
 
 <p float="middle">
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/files.png" width="300" />
 </p>
 
 # Recovering save game files
-To carry on playing a game, exactly where It was left off the save files are required. Different comsoles have differnet formats and methods of storing these files. Typically the cartridge based consoles will store the game progress on  the cartridge its self (alongside the game ROM). Disc based consoles store the save data in a seperate location to the games files. (older consoles have dedicated memory cards).
+To transfer a game's progress from the orginal hardware to emulation, the save files need to be dumped. 
 
-I plan to slowly update and improve the notes on this page.
+Different consoles use different formats and methods of storing these files. Typically a cartridge based console will store the save data on the cartridge its self (alongside the game ROM). Disc based consoles store the save data in a seperate location to the games files. (older consoles have dedicated memory cards).
 
-N.B. I found all retroarch cores to convert save file formats. I.e they will need ro be converted back to use with orginal hardware/non retroarch emulators.
+N.B. I found all Retroarch cores to convert save file formats into `.srm`. I.e they need to be converted back to their orginal format if you want to use them with orginal hardware/non retroarch emulators.
 
 ## Sony PlayStation Portable
- - cfw on psp sd card
+ - How to dump save: cfw on psp sd card
+ - Save File Location : on device
+ - Save File Format : folder on binary files
+ - My Emulator choice : PPSSPP
 
-## Sony PlayStation 2
- - FreeMcBoot installed onto a ps2 mem card + usb stick
+## Sony PlayStation 1/2
+ - How to dump save: FreeMcBoot installed onto a ps2 mem card + usb stick
+ - Save File Location : external memory cards
+ - Save File Format :
+ - My Emulator choice : PS1 PCSX core in [Retroarch](https://www.retroarch.com/), PS2 PCSX2
 
 ## Sony PlayStation 3
- - jailbroken PlayStation 3 with cfw
+ - How to dump save: jailbroken PlayStation 3 with cfw
+ - Save File Location : in hdd0 of device
+ - Save File Format : folder on binary files
+ - My Emulator choice : RPCS3
 
 ## Nintendo DS
- - Nintendo DS + r4 card with cfw
+ - How to dump save: Nintendo DS + r4 card with cfw
+ - Save File Location : 
+ - Save File Format : `.sav`
+ - My Emulator choice : DSume core in [Retroarch](https://www.retroarch.com/)
 
-## Nintendo Gameboy
- - FlashBoy
-
-## Nintendo Gameboy Adavance 
- - Nintendo DS lite + r4 wirh cfw
- - FlashBoy
+## Nintendo Gameboy / Advance 
+ - How to dump save: Nintendo DS lite + r4 wirh cfw or FlashBoy
+ - Save File Location : in cartridge
+ - Save File Format : `.sav`
+ - My Emulator choice : mgba_libretro core in [Retroarch](https://www.retroarch.com/)
 
 ## Nintendo Wii
- - cfw on a sd card
+ - How to dump save: cfw on a sd card
+ - Save File Location : on device
+ - Save File Format :
+ - My Emulator choice : Dolphin
 
-not sure if save gathered
 ## Sega Megadrive 
+ - How to dump save: custom dumper 
+ - Save File Location : in cartridge (not all games have save features)
+ - Save File Format :
+ - My Emulator choice : blastem_libretro core in [Retroarch](https://www.retroarch.com/)
 
 ## Sega Saturn
-
-# My emulator choices 
-[make into html table]
-
-## Sony PlayStation
- - psx core in retroarch
-
-## Sony PlayStation 2
- - PSX2
-
-## Sony PlayStation 3
- - rpcs3
-
-## Nintendo DS
- - dsume core in retroarch
-
-## Nintendo wii 
- - dolphin
-
-## nintendo gameboy
- - 
-
-## nintendo gameboy advanced
- - 
-
-## sega saturn
- - yabasanshiro core in retroarch
-
-## sega megadrive
- -
+ - How to dump save: custom dumper 
+ - Save File Location : on device or extenrnal cartridge memory
+ - Save File Format :
+ - My Emulator choice : Yaba SanShiro core in [Retroarch](https://www.retroarch.com/)
