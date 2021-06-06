@@ -1,4 +1,4 @@
-# Pi-Craft
+# D̶.̶I̶.̶Y̶  D.I.Pi
 Ahh I cant be bothered ... I'll get a pi do it.
 
 <br>

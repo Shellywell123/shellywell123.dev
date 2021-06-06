@@ -9,6 +9,10 @@ This was achieved by dumping all my personal ROM's and save files on every conso
 
 <br>
 
+# LaunchBox Configs
+ - I use PS4 dual shock controller with this [script](https://github.com/Shellywell123/BigBox_PS4_home_button_Launcher) to launch LaunchBox in BigBox mode
+ - I set all emulators to launch the rom directly in full screen mode for Sega Saturn I used this [script](https://github.com/Shellywell123/Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script)
+
 # Recovering save game files
 To transfer a game's progress from the orginal hardware to emulation, the save files need to be dumped. 
 
