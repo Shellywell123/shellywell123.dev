@@ -54,9 +54,9 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Sony PlayStation 3
- - How to dump save: jailbroken PlayStation 3 with cfw
- - Save File Location : in hdd0 of device
- - Save File Format : folder on binary files
+ - How to dump save: jailbroken PlayStation 3 with CFW (multiman)
+ - Save File Location : in `hdd0\home\00000001\savedata` of device
+ - Save File Format : folder of multiple files (typically contains: `ICON0.PNG`,`PARAM.SFO`,`USR-DATA` )
  - My Emulator choice : [RPCS3](https://rpcs3.net/)
 
 <br>
@@ -66,8 +66,8 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Nintendo DS
- - How to dump save: Nintendo DS + r4 card with cfw
- - Save File Location : 
+ - How to dump save: Nintendo DS + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW
+ - Save File Location : not sure if on cartridge or device
  - Save File Format : `.sav`
  - My Emulator choice : DSume core in [RetroArch](https://www.retroarch.com/)
 
@@ -78,7 +78,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Nintendo Gameboy / Advance 
- - How to dump save: Nintendo DS lite + r4 with cfw or FlashBoy
+ - How to dump save: Nintendo DS lite + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW or [FlashBoy](https://www.youtube.com/watch?v=aaEEqqJB3Ws&ab_channel=Trevorman5)
  - Save File Location : in cartridge
  - Save File Format : `.sav`
  - My Emulator choice : mgba_libretro core in [RetroArch](https://www.retroarch.com/)
@@ -90,7 +90,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Nintendo Wii
- - How to dump save: cfw on a sd card
+ - How to dump save: CFW on a sd card
  - Save File Location : on device
  - Save File Format :
  - My Emulator choice : [Dolphin](https://dolphin-emu.org/)
@@ -102,7 +102,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Sega Megadrive / Genesis
- - How to dump save: custom dumper 
+ - How to dump save: custom dumper such as [MD-DUMPER](https://www.tindie.com/products/xdeath/usb-megadrive-genesis-cartridge-readerwriter/)
  - Save File Location : in cartridge (not all games have save features)
  - Save File Format :
  - My Emulator choice : blastem_libretro core in [RetroArch](https://www.retroarch.com/)
@@ -114,7 +114,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Sega Saturn
- - How to dump save: custom dumper 
+ - How to dump save: not sure yet
  - Save File Location : on device or extenrnal cartridge memory
  - Save File Format :
  - My Emulator choice : Yaba SanShiro core in [RetroArch](https://www.retroarch.com/)
