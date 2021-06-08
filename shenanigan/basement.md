@@ -11,7 +11,7 @@ This was achieved by dumping all my personal ROM's and save files on every conso
 
 # LaunchBox Configs
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="300" />
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/DS4.png" width="300" />
 </p>
  - I use PS4 dual shock controller with this [script](https://github.com/Shellywell123/BigBox_PS4_home_button_Launcher) to launch LaunchBox in BigBox mode and have configured the same controller to each emulator.
  - I set all emulators to launch the selected ROM directly in full screen mode for Sega Saturn I used this [script](https://github.com/Shellywell123/Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script)
