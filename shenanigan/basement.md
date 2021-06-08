@@ -10,8 +10,11 @@ This was achieved by dumping all my personal ROM's and save files on every conso
 <br>
 
 # LaunchBox Configs
- - I use PS4 dual shock controller with this [script](https://github.com/Shellywell123/BigBox_PS4_home_button_Launcher) to launch LaunchBox in BigBox mode
- - I set all emulators to launch the rom directly in full screen mode for Sega Saturn I used this [script](https://github.com/Shellywell123/Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script)
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="300" />
+</p>
+ - I use PS4 dual shock controller with this [script](https://github.com/Shellywell123/BigBox_PS4_home_button_Launcher) to launch LaunchBox in BigBox mode and have configured the same controller to each emulator.
+ - I set all emulators to launch the selected ROM directly in full screen mode for Sega Saturn I used this [script](https://github.com/Shellywell123/Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script)
 
 # Recovering save game files
 To transfer a game's progress from the orginal hardware to emulation, the save files need to be dumped. 
@@ -20,6 +23,8 @@ Different consoles use different formats and methods of storing these files. Typ
 
 N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e they need to be converted back to their orginal format if you want to use them with orginal hardware/non retroarch emulators.
 
+Below I have began detailing notes for different console emulators and save file recovery methods
+
 <br>
 
 <hr />
@@ -27,10 +32,10 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Sony PlayStation Portable
- - How to dump save: cfw on psp sd card
+ - How to dump save: CFW on PSP's SD  card
  - Save File Location : on device
  - Save File Format : folder on binary files
- - My Emulator choice : [PPSSPP](http://ppsspp.org/)
+ - My Emulator choice : [PPSSPP](http://ppsspp.org/) (can use RetroArch core, but I prefer the Standalone)
 
 <br>
 
@@ -38,14 +43,26 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 
 <br>
 
-## Sony PlayStation 1/2
+## Sony PlayStation 1
+ - How to dump save: ps3 mem stick converter (yet to try)
+ - Save File Location : external memory cards
+ - Save File Format : `.ps1`
+ - My Emulator choice : PCSX core in [RetroArch](https://www.retroarch.com/)
+
+<br>
+
+<hr />
+
+<br>
+
+## Sony PlayStation 2
  - How to dump save: FreeMcBoot installed onto a ps2 mem card + usb stick
  <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/FreeMcBoot.png" width="800" />
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="800" />
 </p>
  - Save File Location : external memory cards
- - Save File Format : `.ps1`/`.ps2`
- - My Emulator choice : PS1 PCSX core in [RetroArch](https://www.retroarch.com/), PS2 [PCSX2](https://pcsx2.net/)
+ - Save File Format : `.ps2`
+ - My Emulator choice : [PCSX2](https://pcsx2.net/)
 
 <br>
 
@@ -93,7 +110,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
  - How to dump save: CFW on a sd card
  - Save File Location : on device
  - Save File Format :
- - My Emulator choice : [Dolphin](https://dolphin-emu.org/)
+ - My Emulator choice : [Dolphin](https://dolphin-emu.org/) (can use RetroArch core, but I prefer the Standalone)
 
 <br>
 
@@ -114,7 +131,7 @@ N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e t
 <br>
 
 ## Sega Saturn
- - How to dump save: not sure yet
+ - How to dump save: yet to try
  - Save File Location : on device or extenrnal cartridge memory
  - Save File Format :
  - My Emulator choice : Yaba SanShiro core in [RetroArch](https://www.retroarch.com/)
