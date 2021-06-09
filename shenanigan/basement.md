@@ -32,6 +32,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sony PlayStation Portable
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PSP.png" width="300" />
+</p>
  - How to dump save: CFW on PSP's SD  card
  - Save File Location : on device
  - Save File Format : folder on binary files
@@ -44,6 +47,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sony PlayStation 1
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS1.png" width="300" />
+</p>
  - How to dump save: ps3 mem stick converter (yet to try)
  - Save File Location : external memory cards
  - Save File Format : `.ps1`
@@ -56,6 +62,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sony PlayStation 2
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS2.png" width="300" />
+</p>
  - How to dump save: FreeMcBoot installed onto a ps2 mem card + usb stick
  <p float="middle">
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="800" />
@@ -71,6 +80,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sony PlayStation 3
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS3.png" width="300" />
+</p>
  - How to dump save: jailbroken PlayStation 3 with CFW (multiman)
  - Save File Location : in `hdd0\home\00000001\savedata` of device
  - Save File Format : folder of multiple files (typically contains: `ICON0.PNG`,`PARAM.SFO`,`USR-DATA` )
@@ -83,6 +95,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Nintendo DS
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/DS.png" width="300" />
+</p>
  - How to dump save: Nintendo DS + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW
  - Save File Location : not sure if on cartridge or device
  - Save File Format : `.sav`
@@ -95,6 +110,10 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Nintendo Gameboy / Advance 
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GBA.png" width="300" />
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GBASP.png" width="300" />
+</p>
  - How to dump save: Nintendo DS lite + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW or [FlashBoy](https://www.youtube.com/watch?v=aaEEqqJB3Ws&ab_channel=Trevorman5)
  - Save File Location : in cartridge
  - Save File Format : `.sav`
@@ -107,6 +126,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Nintendo Wii
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Wii.png" width="300" />
+</p>
  - How to dump save: CFW on a sd card
  - Save File Location : on device
  - Save File Format :
@@ -119,6 +141,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sega Megadrive / Genesis
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Megadrive.png" width="300" />
+</p>
  - How to dump save: custom dumper such as [MD-DUMPER](https://www.tindie.com/products/xdeath/usb-megadrive-genesis-cartridge-readerwriter/)
  - Save File Location : in cartridge (not all games have save features)
  - Save File Format :
@@ -131,6 +156,9 @@ Below I have began detailing notes for different console emulators and save file
 <br>
 
 ## Sega Saturn
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Saturn.png" width="300" />
+</p>
  - How to dump save: yet to try
  - Save File Location : on device or extenrnal cartridge memory
  - Save File Format :
