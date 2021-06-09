@@ -67,7 +67,7 @@ Below I have began detailing notes for different console emulators and save file
 </p>
  - How to dump save: FreeMcBoot installed onto a ps2 mem card + usb stick
  <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="800" />
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="400" />
 </p>
  - Save File Location : external memory cards
  - Save File Format : `.ps2`
@@ -111,7 +111,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Nintendo Gameboy / Advance 
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GBA.png" width="300" />
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GB.png" width="300" />
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GBASP.png" width="300" />
 </p>
  - How to dump save: Nintendo DS lite + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW or [FlashBoy](https://www.youtube.com/watch?v=aaEEqqJB3Ws&ab_channel=Trevorman5)
