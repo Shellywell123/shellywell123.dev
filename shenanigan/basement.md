@@ -35,7 +35,7 @@ Below I have began detailing notes for different console emulators and save file
 <p float="middle">
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PSP.png" width="300" />
 </p>
- - How to dump save: CFW on PSP's SD  card
+ - How to dump save: CFW on PSP's SD card
  - Save File Location : on device
  - Save File Format : folder on binary files
  - My Emulator choice : [PPSSPP](http://ppsspp.org/) (can use RetroArch core, but I prefer the Standalone)
@@ -131,7 +131,7 @@ Below I have began detailing notes for different console emulators and save file
 </p>
  - How to dump save: CFW on a sd card
  - Save File Location : on device
- - Save File Format :
+ - Save File Format : TODO
  - My Emulator choice : [Dolphin](https://dolphin-emu.org/) (can use RetroArch core, but I prefer the Standalone)
 
 <br>
