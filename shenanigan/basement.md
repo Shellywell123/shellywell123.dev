@@ -131,8 +131,24 @@ Below I have began detailing notes for different console emulators and save file
 </p>
  - How to dump save: CFW on a sd card
  - Save File Location : on device
- - Save File Format :
+ - Save File Format : `XXXX/data.bin` where `XXXX` is the games serial no.
  - My Emulator choice : [Dolphin](https://dolphin-emu.org/) (can use RetroArch core, but I prefer the Standalone)
+
+<br>
+
+<hr />
+
+<br>
+
+
+## Super Nintendo Entertainment System
+<p float="middle">
+  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/SNES.png" width="300" />
+</p>
+ - How to dump save: sanni cart reader or Snes mini + Classic 2 Magic or retrode/superfreak or SNES game back up device + floppy disk 
+ - Save File Location : on cartridge
+ - Save File Format : `sfd`
+ - My Emulator choice : ? core in [RetroArch](https://www.retroarch.com/)
 
 <br>
 
