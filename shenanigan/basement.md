@@ -21,7 +21,7 @@ To transfer a game's progress from the orginal hardware to emulation, the save f
 
 Different consoles use different formats and methods of storing these files. Typically a cartridge based console will store the save data on the cartridge its self (alongside the game ROM). Disc based consoles store the save data in a seperate location to the games files. (older consoles have dedicated memory cards).
 
-N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e they need to be converted back to their orginal format if you want to use them with orginal hardware/non retroarch emulators.
+N.B. I found all RetroArch cores to convert save file formats into `.srm`. I.e they need to be converted back to their orginal format if you want to use them with orginal hardware/non RetroArch emulators.
 
 Below I have began detailing notes for different console emulators and save file recovery methods
 
@@ -147,7 +147,7 @@ Below I have began detailing notes for different console emulators and save file
 </p>
  - How to dump save: sanni cart reader or Snes mini + Classic 2 Magic or retrode/superfreak or SNES game back up device + floppy disk 
  - Save File Location : on cartridge
- - Save File Format : `sfd`
+ - Save File Format : `.sfd`
  - My Emulator choice : ? core in [RetroArch](https://www.retroarch.com/)
 
 <br>
