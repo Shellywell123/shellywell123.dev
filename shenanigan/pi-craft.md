@@ -1,5 +1,7 @@
-# D̶.̶I̶.̶Y̶  D.I.Pi
-Ahh I cant be bothered ... I'll get a pi do it.
+# D̶.̶I̶.̶Y̶ > D.I.Pi
+Ahh I cant be bothered ... I'll get a Pi do it.
+
+A page where I have began documenting some noteable Pi based antics.
 
 <br>
 
@@ -8,7 +10,7 @@ Ahh I cant be bothered ... I'll get a pi do it.
 <br>
 
 ## Bluetooth-Stereo-Pi
-[check this git out](https://github.com/nicokaiser/rpi-audio-receiver)
+Turn your Pi into a blluetooth reciever with this [repo](https://github.com/nicokaiser/rpi-audio-receiver)
 
 <br>
 
@@ -17,6 +19,8 @@ Ahh I cant be bothered ... I'll get a pi do it.
 <br>
 
 ## Doorlock-Pi
+
+Connect a servo to the pi and a door latch, you can un/lock a door using a simple script.
 
 <p float="middle">
   <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/door-pi.png" width="300" />
@@ -30,7 +34,8 @@ Ahh I cant be bothered ... I'll get a pi do it.
 
 ## Info-Pi
 "hello today is monday the blah blah of blah blah, the temperaature is blah and the weather is blah"
-[check this git out](https://github.com/Shellywell123/AI)
+
+Turn your Pi into a make shift information hub with this [repo]](https://github.com/Shellywell123/AI). Note I am currently developing new features.
 
 <br>
 
