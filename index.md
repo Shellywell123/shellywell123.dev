@@ -7,7 +7,7 @@ you@shellywell123.dev:~/$ tree
 │   └── <a href="https://hub.docker.com">DockerHub.yaml</a>
 │── projects
 │   ├── <a href="https://shellywell123.dev/shenanigan/pi-craft.html">raspberry.pi</a>
-│   └── <a href="https://shellywell123.dev/shenanigan/beatscase.html">just_in_case.dj</a>
+│   └── <a href="https://shellywell123.dev/shenanigan/beats-case.html">just_in_case.dj</a>
 │── art
 │   └── <a href="https://shellywell123.dev/shenanigan/art-attack.html">Sketchbooks.png</a>
 └── contact
