@@ -23,7 +23,7 @@ Turn your Pi into a blluetooth reciever with this [repo](https://github.com/nico
 Connect a servo to the pi and a door latch, you can un/lock a door using a simple script.
 
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/door-pi.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/door-pi.png" width="300" />
 </p>
 
 <br>
@@ -46,5 +46,5 @@ Turn your Pi into a make shift information hub with this [repo]](https://github.
 ## Pi Just-In-Case
 
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/lego-pi.jpeg" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/lego-pi.jpeg" width="300" />
 </p>

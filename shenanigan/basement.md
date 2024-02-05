@@ -11,7 +11,7 @@ This was achieved by dumping all my personal ROM's and save files on every conso
 
 # LaunchBox Configs
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/DS4.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/DS4.png" width="300" />
 </p>
  - I use PS4 dual shock controller with this [script](https://github.com/Shellywell123/BigBox_PS4_home_button_Launcher) to launch LaunchBox in BigBox mode and have configured the same controller to each emulator.
  - I set all emulators to launch the selected ROM directly in full screen mode for Sega Saturn I used this [script](https://github.com/Shellywell123/Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script)
@@ -33,7 +33,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sony PlayStation Portable
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PSP.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/PSP.png" width="300" />
 </p>
  - How to dump save: CFW on PSP's SD card
  - Save File Location : on device
@@ -48,7 +48,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sony PlayStation 1
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS1.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/PS1.png" width="300" />
 </p>
  - How to dump save: ps3 mem stick converter (yet to try)
  - Save File Location : external memory cards
@@ -63,11 +63,11 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sony PlayStation 2
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS2.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/PS2.png" width="300" />
 </p>
  - How to dump save: FreeMcBoot installed onto a ps2 mem card + usb stick
  <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/FreeMcBoot.png" width="400" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/FreeMcBoot.png" width="400" />
 </p>
  - Save File Location : external memory cards
  - Save File Format : `.ps2`
@@ -81,7 +81,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sony PlayStation 3
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/PS3.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/PS3.png" width="300" />
 </p>
  - How to dump save: jailbroken PlayStation 3 with CFW (multiman)
  - Save File Location : in `hdd0\home\00000001\savedata` of device
@@ -96,7 +96,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Nintendo DS
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/DS.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/DS.png" width="300" />
 </p>
  - How to dump save: Nintendo DS + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW
  - Save File Location : not sure if on cartridge or device
@@ -111,8 +111,8 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Nintendo Gameboy / Advance 
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GB.png" width="300" />
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/GBASP.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/GB.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/GBASP.png" width="300" />
 </p>
  - How to dump save: Nintendo DS lite + [R4 card](https://en.wikipedia.org/wiki/R4_cartridge) with CFW or [FlashBoy](https://www.youtube.com/watch?v=aaEEqqJB3Ws&ab_channel=Trevorman5)
  - Save File Location : in cartridge
@@ -127,7 +127,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Nintendo Wii
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Wii.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/Wii.png" width="300" />
 </p>
  - How to dump save: CFW on a SD card
  - Save File Location : on device
@@ -143,7 +143,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Super Nintendo Entertainment System
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/SNES.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/SNES.png" width="300" />
 </p>
  - How to dump save: sanni cart reader or Snes mini + Classic 2 Magic or retrode/superfreak or SNES game back up device + floppy disk 
  - Save File Location : on cartridge
@@ -158,7 +158,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sega Megadrive / Genesis
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Megadrive.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/Megadrive.png" width="300" />
 </p>
  - How to dump save: custom dumper such as [MD-DUMPER](https://www.tindie.com/products/xdeath/usb-megadrive-genesis-cartridge-readerwriter/)
  - Save File Location : in cartridge (not all games have save features)
@@ -173,7 +173,7 @@ Below I have began detailing notes for different console emulators and save file
 
 ## Sega Saturn
 <p float="middle">
-  <img src="https://shellywell123.github.io/The-Shenanigans-of-Shellywell123/assets/basement/Saturn.png" width="300" />
+  <img src="https://shellywell123shellywell123.dev/assets/basement/Saturn.png" width="300" />
 </p>
  - How to dump save: yet to try
  - Save File Location : on device or extenrnal cartridge memory
