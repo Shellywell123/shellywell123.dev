@@ -1,6 +1,6 @@
 <pre>
 you@shellywell123.dev:~/sketchbooks.png$ ls
-[..](https://shellywell123.dev)
+<a href="https://shellywell123.dev">..</a>
 </pre>
 
 # ArT-aTt@cK

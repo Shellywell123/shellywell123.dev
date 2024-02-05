@@ -1,6 +1,6 @@
 <pre>
 you@shellywell123.dev:~/raspberry.pi$ ls
-[..](https://shellywell123.dev)
+<a href="https://shellywell123.dev">..</a>
 </pre>
 
 # D̶.̶I̶.̶Y̶ > D.I.Pi
