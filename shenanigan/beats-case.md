@@ -12,5 +12,5 @@ Current Setup:
  - basic extras like foam inlays and led lighting
 
 <p float="middle">
-  <img src="https://shellywell123shellywell123.dev/assets/beatscase.jpeg" width="300" />
+  <img src="https://shellywell123.dev/assets/beatscase.jpeg" width="300" />
 </p>
