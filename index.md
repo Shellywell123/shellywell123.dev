@@ -6,7 +6,7 @@ you@shellywell123.dev:~/$ tree
 │   ├── <a href="https://github.com/Shellywell123">.git</a>
 │   ├── <a href="https://hub.docker.com">DockerHub.yaml</a>
 │   └── games
-│       └──  <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">GrindBoy.gb</a>
+│       └── <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">GrindBoy.gb</a>
 │── projects
 │   ├── <a href="https://shellywell123.dev/shenanigan/pi-craft.html">raspberry.pi</a>
 │   └── <a href="https://shellywell123.dev/shenanigan/beats-case.html">just_in_case.dj</a>
@@ -15,5 +15,5 @@ you@shellywell123.dev:~/$ tree
 └── contact
     └── <a href="https://www.linkedin.com/in/ben-shellswell/">linkdin.lnk</a>
 
-4 directories, 6 files
+4 directories, 7 files
 </pre>
