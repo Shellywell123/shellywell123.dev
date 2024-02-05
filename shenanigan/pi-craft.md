@@ -1,3 +1,8 @@
+<pre>
+you@shellywell123.dev:~/raspberry.pi$ ls
+[..](https://shellywell123.dev)
+</pre>
+
 # D̶.̶I̶.̶Y̶ > D.I.Pi
 Ahh I cant be bothered ... I'll get a Pi do it.
 

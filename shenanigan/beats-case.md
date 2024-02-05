@@ -1,3 +1,8 @@
+<pre>
+you@shellywell123.dev:~/just_in_case.dj$ ls
+[..](https://shellywell123.dev)
+</pre>
+
 # Beat-Case
 
 old broken laptop + dj controller + lockdown = retro dj station.
