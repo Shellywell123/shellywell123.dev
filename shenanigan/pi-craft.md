@@ -3,9 +3,6 @@ you@shellywell123.dev:~/raspberry.pi$ ls
 <a href="https://shellywell123.dev">..</a>
 </pre>
 
-# D̶.̶I̶.̶Y̶ > D.I.Pi
-Ahh I cant be bothered ... I'll get a Pi do it.
-
 A page where I have began documenting some noteable Pi based antics.
 
 <br>
@@ -47,9 +44,6 @@ Turn your Pi into a make shift information hub with this [repo]](https://github.
 <hr />
 
 <br>
-
-## Pi Just-In-Case
-
 <p float="middle">
-  <img src="https://shellywell123.dev/assets/lego-pi.jpeg" width="300" />
+    <img src="https://shellywell123.dev/assets/dj-pi.jpg" width="300" />
 </p>
