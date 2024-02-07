@@ -3,9 +3,8 @@ you@shellywell123.dev:~/rom.sav$ ls
 <a href="https://shellywell123.dev/tree/games/index.html">..</a>
 </pre>
 # Basement.sav
-Notes made during the making of an all-in-one PC gaming hub from the games in my basement.
 
-This was achieved by dumping all my personal ROM's and save files on every console my Dad and I collected over the years. And then configuring all the files to run via the use of emulators running on a single PC (Windows). I found [LaunchBox](https://www.launchbox-app.com/download) to be the best soloution for multiple emulators as an all-in-one frontend.
+- [LaunchBox](https://www.launchbox-app.com/download)
 
 <br>
 
