@@ -1,3 +1,7 @@
+<pre>
+you@shellywell123.dev:~/rom.sav$ ls
+<a href="https://shellywell123.dev/tree/games/index.html">..</a>
+</pre>
 # Basement.sav
 Notes made during the making of an all-in-one PC gaming hub from the games in my basement.
 

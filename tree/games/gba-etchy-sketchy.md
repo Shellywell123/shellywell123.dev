@@ -1,3 +1,8 @@
+<pre>
+you@shellywell123.dev:~/etchy-sketchy.gba$ ls
+<a href="https://shellywell123.dev/tree/games/index.html">..</a>
+</pre>
+
 # Etchy Sketchy
 
 <p float="left" href="https://shellywell123.github.io/gbajs/">
