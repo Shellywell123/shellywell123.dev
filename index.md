@@ -2,17 +2,17 @@
 <pre>
 you@shellywell123.dev:~/$ tree
 .
-├── code
+├── code/
 │   ├── <a href="https://github.com/Shellywell123">.git</a>
 │   ├── <a href="https://hub.docker.com/u/shellywell123">DockerHub.yaml</a>
-│   └── games
-│       └── <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">GrindBoy.gb</a>
-│── projects
+│   └── <a href="https://shellywell123.dev/shenanigan/games/index.html">games/</a>
+│
+│── projects/
 │   ├── <a href="https://shellywell123.dev/shenanigan/pi-craft.html">raspberry.pi</a>
 │   └── <a href="https://shellywell123.dev/shenanigan/beats-case.html">just_in_case.dj</a>
-│── art
+│── art/
 │   └── <a href="https://shellywell123.dev/shenanigan/art-attack.html">Sketchbooks.png</a>
-└── contact
+└── contact/
     └── <a href="https://www.linkedin.com/in/ben-shellswell/">linkdin.lnk</a>
 
 4 directories, 7 files
