@@ -8,7 +8,7 @@ you@shellywell123.dev:~/$ tree
 ├── <a href="https://shellywell123.dev/tree/games/index.html">games/</a>
 │   ├── <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">GrindBoy.gb</a>
 │   ├── <a href="https://shellywell123.github.io/gbajs/">Etchy-Sketchy.gba</a>
-│   └── <a href="https://shellywell123.dev/tree/games/basment.html">rom.sav</a>
+│   └── <a href="https://shellywell123.dev/tree/games/basement.html">rom.sav</a>
 │── <a href="https://shellywell123.dev/tree/projects/index.html">projects/</a>
 │   ├── <a href="https://shellywell123.dev/tree/projects/pi-craft.html">raspberry.pi</a>
 │   └── <a href="https://shellywell123.dev/tree/projects/beats-case.html">just_in_case.dj</a>
