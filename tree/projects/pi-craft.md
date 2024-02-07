@@ -9,15 +9,7 @@ you@shellywell123.dev:~/raspberry.pi$ ls
 
 <br>
 
-## Doorlock-Pi
-
-Connect a servo to the pi and a door latch, you can un/lock a door using a simple script.
-
-<p float="middle">
-  <img src="https://shellywell123.dev/assets/door-pi.png" width="300" />
-</p>
-
-
+TODO
 
 <hr />
 
