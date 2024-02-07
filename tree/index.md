@@ -15,7 +15,7 @@ you@shellywell123.dev:~/$ tree
 │── <a href="https://shellywell123.dev/tree/art/index.html">art/</a>
 │   └── <a href="https://shellywell123.dev/tree/art/art-attack.html">Sketchbooks.png</a>
 └── <a href="https://shellywell123.dev/tree/contact/index.html">contact/</a>
-    └── <a href="https://www.linkedin.com/in/ben-shellswell/">linkdin.lnk</a>
+    └── <a href="https://www.linkedin.com/in/ben-shellswell/">linkedin.lnk</a>
 
 5 directories, 9 files
 </pre>
