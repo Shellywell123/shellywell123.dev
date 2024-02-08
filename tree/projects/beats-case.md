@@ -5,5 +5,5 @@ you@shellywell123.dev:~/just_in_case.dj$ ls
 
 TODO
 <p float="middle">
-  <img src="attatchments/beatscase.jpeg" width="300" />
+  <img src="../attatchments/beatscase.jpeg" width="300" />
 </p>
