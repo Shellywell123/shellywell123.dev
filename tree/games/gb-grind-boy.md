@@ -4,7 +4,7 @@ you@shellywell123.dev:~/grind-boy.gb$ ls
 </pre>
 
 # Grind Boy
-[play]("https://shellywell123.github.io/Grind-Boy/build/web/index.html")
+[play]("https://shellywell123.github.io/Grind-Boy/build/web/index.html")\
 <a >
-  <img src="https://shellywell123.dev/tree/games/attachments/gba-etchy-sketchy.gif" width="175" />
+  <img src="https://shellywell123.dev/tree/games/attachments/gb-grind-boy.gif" width="175" />
 </a>
