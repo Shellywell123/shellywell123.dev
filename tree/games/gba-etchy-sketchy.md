@@ -7,5 +7,5 @@ you@shellywell123.dev:~/etchy-sketchy.gba$ ls
 TODO
 [play]("https://shellywell123.github.io/gbajs2/")\
 <p >
-  <img src="hhttps://shellywell123.dev/tree/games/attachments/gba-etchy-sketchy.gif" height="300" />
+  <img src="https://shellywell123.dev/tree/games/attachments/gba-etchy-sketchy.gif" height="300" />
 </p>
