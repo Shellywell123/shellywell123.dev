@@ -15,5 +15,8 @@ TODO
 
 <br>
 <p float="middle">
-    <img src="https://shellywell123.dev/assets/dj-pi.jpg" width="300" />
+    <img src="https://shellywell123.dev/tree/projects/attachments/pi-dj.jpg" width="300" />
+</p>
+<p float="middle">
+    <img src="https://shellywell123.dev/tree/projects/attachments/pi-car.jpg" width="300" />
 </p>
