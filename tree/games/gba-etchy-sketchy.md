@@ -5,7 +5,7 @@ you@shellywell123.dev:~/etchy-sketchy.gba$ ls
 
 # Etchy Sketchy
 TODO
-<p float="left" href="https://shellywell123.github.io/gbajs/">
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/ScreenGrab.GIF" height="300" />
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/Game-Boy-Advance.jpg" height="300" />
+[play]("https://shellywell123.github.io/gbajs2/")
+<p >
+  <img src="hhttps://shellywell123.dev/tree/games/attachments/gba-etchy-sketchy.gif" height="300" />
 </p>
