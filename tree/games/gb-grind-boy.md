@@ -1,7 +1,8 @@
 <pre>
 you@shellywell123.dev:~/grind-boy.gb$ ls
-<a href="https://shellywell123.dev/tree/games/index.html">..</a>
+  <a href="https://shellywell123.dev/tree/games/index.html">..</a>
 </pre>
+
 # Grind Boy
 TODO
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
