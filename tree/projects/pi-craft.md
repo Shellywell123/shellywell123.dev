@@ -4,16 +4,6 @@ you@shellywell123.dev:~/raspberry.pi$ ls
 </pre>
 
 <br>
-
-<hr />
-
-<br>
-
-TODO
-
-<hr />
-
-<br>
 - [mixxx](https://github.com/fayaaz/mixxx-pi-gen)
 <p float="middle">
     <img src="https://shellywell123.dev/tree/projects/attachments/pi-dj.jpg" width="300" />
