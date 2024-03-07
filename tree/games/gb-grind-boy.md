@@ -14,7 +14,7 @@ A Homebrew Nintendo Gameboy Game, made with GB Studio.
   ">
    | |__GAME BOY____________/ |
    |                          |
-   |    _    <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">play here</a>        |
+   |    _    <a href="https://shellywell123.github.io/Grind-Boy.gb/build/web/index.html">play here</a>        |
    |  _| |_              .-.  |
    | [_   _]        .-. (   ) |
    |   |_|         (   ) '-'  |

@@ -13,7 +13,7 @@ A Homebrew Nintendo Gameboy Advance Game, Written in TinyGo.
   ">
    | |__GAME BOY____________/ |
    |                          |
-   |    _    <a href="https://shellywell123.github.io/Etchy-Sketchy/emulator/gbajs2/">play here</a>        |
+   |    _    <a href="https://shellywell123.github.io/Etchy-Sketchy.gba/emulator/gbajs2/">play here</a>        |
    |  _| |_              .-.  |
    | [_   _]        .-. (   ) |
    |   |_|         (   ) '-'  |
