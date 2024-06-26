@@ -12,3 +12,7 @@ you@shellywell123.dev:~/raspberry.pi$ ls
 <p float="middle">
     <img src="https://shellywell123.dev/tree/projects/attachments/pi-car.jpg" width="300" />
 </p>
+- [pi-dash](https://github.com/Shellywell123/pi-dash)
+<p float="middle">
+    <img src="https://github.com/Shellywell123/pi-dash/blob/main/docs/photo.png" width="300" />
+</p>
