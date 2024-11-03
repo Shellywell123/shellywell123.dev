@@ -67,7 +67,7 @@ header h1 {
   // font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 
   font-family: F16;
-  src: url("https://shellywell123.dev/assets/fonts/Early-GameBoy.ttf") format('truetype');
+  src: url("../../shellywell123.dev/assets/fonts/Early-GameBoy.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
 
@@ -113,7 +113,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: F16;
-  src: url("https://shellywell123.dev/assets/fonts/Early-GameBoy.ttf") format('truetype');
+  src: url("../shellywell123.dev/assets/fonts/Early-GameBoy.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
   color: $header;
