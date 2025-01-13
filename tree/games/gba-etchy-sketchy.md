@@ -4,7 +4,7 @@ title: Page/Post Title
 ---
 <pre>
 you@shellywell123.dev:~/etchy-sketchy.gba$ ls
-<a href="../../tree/games/index.html">..</a>
+<a href="./index.html">..</a>
 </pre>
 
 # Etchy Sketchy
@@ -13,7 +13,7 @@ A Homebrew Nintendo Gameboy Advance Game, Written in TinyGo.
 <pre>
    .--------------------------.
    | .----------------------. |
-   |   <img src="./tree/games/attachments/gba-etchy-sketchy.gif" width="175
+   |   <img src="./attachments/gba-etchy-sketchy.gif" width="175
   ">
    | |__GAME BOY____________/ |
    |                          |
