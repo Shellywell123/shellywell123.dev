@@ -4,7 +4,7 @@ title: Page/Post Title
 ---
 <pre>
 you@shellywell123.dev:~/sketchbooks.png$ ls
-<a href="../../tree/index.html">..</a>
+<a href="./index.html">..</a>
 </pre>
 
 TODO

@@ -4,7 +4,7 @@ title: Page/Post Title
 ---
 <pre>
 you@shellywell123.dev:~/code$ tree
-<a href="../../tree/index.html">..</a>
+<a href="../index.html">..</a>
 ├── <a href="https://github.com/Shellywell123">.git</a>
 └── <a href="https://hub.docker.com/u/shellywell123">DockerHub.yaml</a>
 0 directories, 2 files
