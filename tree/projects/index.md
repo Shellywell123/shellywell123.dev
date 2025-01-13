@@ -4,9 +4,9 @@ title: Page/Post Title
 ---
 <pre>
 you@shellywell123.dev:~/projects$ tree
-<a href="https://shellywell123.dev/tree/index.html">..</a>
-├── <a href="https://shellywell123.dev/tree/projects/pi-craft.html">raspberry.pi</a>
-└── <a href="https://shellywell123.dev/tree/projects/beats-case.html">just_in_case.dj</a>
+<a href="../../tree/index.html">..</a>
+├── <a href="./tree/projects/pi-craft.html">raspberry.pi</a>
+└── <a href="./tree/projects/beats-case.html">just_in_case.dj</a>
 
 0 directories, 2 files
 </pre>

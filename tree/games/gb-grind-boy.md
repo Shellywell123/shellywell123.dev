@@ -4,7 +4,7 @@ title: Page/Post Title
 ---
 <pre>
 you@shellywell123.dev:~/grind-boy.gb$ ls
-  <a href="https://shellywell123.dev/tree/games/index.html">..</a>
+  <a href="../../tree/games/index.html">..</a>
 </pre>
 
 # Grind Boy
@@ -14,7 +14,7 @@ A Homebrew Nintendo Gameboy Game, made with GB Studio.
 <pre>
    .--------------------------.
    | .----------------------. |
-   |   <img src="https://shellywell123.dev/tree/games/attachments/gb-grind-boy.gif" width="175
+   |   <img src="./tree/games/attachments/gb-grind-boy.gif" width="175
   ">
    | |__GAME BOY____________/ |
    |                          |
