@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TODO - shellywell123.dev
+title: just_in_case.dj - shellywell123.dev
 ---
 <pre>
 you@shellywell123.dev:~/just_in_case.dj$ ls

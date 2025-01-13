@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TODO - shellywell123.dev
+title: shellywell123.dev
 ---
 <pre>
 you@here$ ssh@shellywell123.dev

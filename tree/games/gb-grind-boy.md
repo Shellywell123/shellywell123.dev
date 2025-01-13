@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TODO - shellywell123.dev
+title: grind-boy.gb - shellywell123.dev
 ---
 <pre>
 you@shellywell123.dev:~/grind-boy.gb$ ls

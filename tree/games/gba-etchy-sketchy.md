@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TODO - shellywell123.dev
+title: etchy-sketchy.gba - shellywell123.dev
 ---
 <pre>
 you@shellywell123.dev:~/etchy-sketchy.gba$ ls
