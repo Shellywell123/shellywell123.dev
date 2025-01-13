@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page/Post Title
+---
 <pre>
 you@shellywell123.dev:~/just_in_case.dj$ ls
 <a href="https://shellywell123.dev/tree/projects/index.html">..</a>

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page/Post Title
+---
 <pre>
 you@shellywell123.dev:~/grind-boy.gb$ ls
   <a href="https://shellywell123.dev/tree/games/index.html">..</a>

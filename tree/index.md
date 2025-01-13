@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Page/Post Title
+---
 <pre>
 you@shellywell123.dev:~/$ tree
 .

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page/Post Title
+---
 <pre>
 you@shellywell123.dev:~/raspberry.pi$ ls
 <a href="https://shellywell123.dev/tree/projects/index.html">..</a>

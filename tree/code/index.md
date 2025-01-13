@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page/Post Title
+---
 <pre>
 you@shellywell123.dev:~/code$ tree
 <a href="https://shellywell123.dev/tree/index.html">..</a>
